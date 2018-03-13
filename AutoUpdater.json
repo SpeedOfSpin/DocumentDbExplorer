@@ -1,6 +1,6 @@
 {
     "version":"1.4.0.0", 
-    "url":"http://rbsoft.org/downloads/AutoUpdaterTest.zip",
+    "url":"https://github.com/sachabruttin/DocumentDbExplorer/blob/autouploadtest/Debug.zip",
     "changelog":"https://github.com/ravibpatel/AutoUpdater.NET/releases",
     "mandatory":true
 }
