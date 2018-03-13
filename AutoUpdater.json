@@ -1,0 +1,6 @@
+{
+    "version":"1.4.0.0", 
+    "url":"http://rbsoft.org/downloads/AutoUpdaterTest.zip",
+    "changelog":"https://github.com/ravibpatel/AutoUpdater.NET/releases",
+    "mandatory":true
+}
