@@ -8,8 +8,9 @@
              xmlns:vm="clr-namespace:DocumentDbExplorer.ViewModel"
              xmlns:avalonedit="http://icsharpcode.net/sharpdevelop/avalonedit"
              xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+             xmlns:assets="clr-namespace:DocumentDbExplorer.ViewModel.Assets"
              mc:Ignorable="d" Loaded="UserControl_Loaded"
-             d:DesignHeight="300" d:DesignWidth="300" d:DataContext="{x:Type vm:UserDefFuncTabViewModel}">
+             d:DesignHeight="300" d:DesignWidth="300" d:DataContext="{x:Type assets:UserDefFuncTabViewModel}">
     <DockPanel>
 
         <StackPanel Orientation="Vertical" DockPanel.Dock="Top" Margin="5,10">
